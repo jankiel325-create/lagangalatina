@@ -4,4 +4,4 @@
 :HL["/lagangalatina/_next/static/chunks/0-0u_w8h2fxzx.css","style"]
 :HL["/lagangalatina/la-ganga-latina.png","image"]
 :HL["/lagangalatina/sonix.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"sonix","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"mfqLfyj5mUikygHdcVYF6"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"sonix","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"NsWnKPKzHcqkmJ0OPeGPS"}

@@ -1,0 +1,11 @@
+{
+  "version": "1.1",
+  "updated_at": null,
+  "policy": {
+    "allowed_licenses": ["CC0-1.0", "CUSTOM-PERMISSION", "PDM-1.0", "PUBLIC-DOMAIN"],
+    "copyrighted_music": false,
+    "stores_audio": false,
+    "purpose": "genre-level acoustic statistics only"
+  },
+  "genres": {}
+}
