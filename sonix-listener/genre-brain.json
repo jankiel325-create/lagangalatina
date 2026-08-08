@@ -1,8 +1,13 @@
 {
   "version": "1.1",
-  "updated_at": null,
+  "updated_at": "2026-08-08T21:15:42.853416+00:00",
   "policy": {
-    "allowed_licenses": ["CC0-1.0", "CUSTOM-PERMISSION", "PDM-1.0", "PUBLIC-DOMAIN"],
+    "allowed_licenses": [
+      "CC0-1.0",
+      "CUSTOM-PERMISSION",
+      "PDM-1.0",
+      "PUBLIC-DOMAIN"
+    ],
     "copyrighted_music": false,
     "stores_audio": false,
     "purpose": "genre-level acoustic statistics only"
