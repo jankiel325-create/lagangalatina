@@ -5,4 +5,4 @@
 :HL["https://cdn.simpleicons.org/youtube/FFFFFF","image"]
 :HL["https://cdn.simpleicons.org/roblox/FFFFFF","image"]
 :HL["https://cdn.simpleicons.org/discord/FFFFFF","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"comunidad","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"nv161iwjwjV303MFy01BB"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"comunidad","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"sI5k10EMb0_OsQUr6ATzl"}
