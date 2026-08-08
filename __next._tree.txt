@@ -1,6 +1,5 @@
-:HL["/lagangalatina/_next/static/chunks/176nr.8_i2atd.css","style"]
+:HL["/lagangalatina/_next/static/chunks/0aabqo.si642e.css","style"]
 :HL["/lagangalatina/_next/static/media/e8f2fbee2754df70-s.p.0fzkl03jw-sdz.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/lagangalatina/_next/static/media/fabcf92ba1ccea36-s.p.0lwj123ije5i..woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/lagangalatina/la-ganga-latina.png","image"]
-:HL["/lagangalatina/school-live-2.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"ibLhMAgaPqx8PRWGu-wwH"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"4g48aUkDGTmdDB0obKDkf"}
