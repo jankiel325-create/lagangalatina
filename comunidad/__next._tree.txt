@@ -1,8 +1,8 @@
-:HL["/lagangalatina/_next/static/chunks/09vyx9fqxhg-x.css","style"]
+:HL["/lagangalatina/_next/static/chunks/0yaa1_7~c~a20.css","style"]
 :HL["/lagangalatina/_next/static/media/e8f2fbee2754df70-s.p.0fzkl03jw-sdz.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/lagangalatina/_next/static/media/fabcf92ba1ccea36-s.p.0lwj123ije5i..woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/lagangalatina/la-ganga-latina.png","image"]
 :HL["https://cdn.simpleicons.org/youtube/FFFFFF","image"]
 :HL["https://cdn.simpleicons.org/roblox/FFFFFF","image"]
 :HL["https://cdn.simpleicons.org/discord/FFFFFF","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"comunidad","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"tckEDNV2tVKU8F3-WkBaR"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"comunidad","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"k6jlcXm9UVjffy_zZqDZm"}
